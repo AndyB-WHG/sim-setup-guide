@@ -35,7 +35,7 @@ in the project itself (in a separate directory), or just hosted elsewhere online
 
 [GitHub](http://github.com)
 
-
+[Wireframes](https://github.com/AndyB-WHG/sim-setup-guide/blob/master/Sim%20Setup%20World.bmpr)
 
 ## Features
 
