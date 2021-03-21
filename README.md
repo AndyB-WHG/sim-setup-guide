@@ -30,12 +30,7 @@ The site therefore acts as an organising database to pull together knowledge and
 
 ### Wireframes
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file 
-in the project itself (in a separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
-[GitHub](http://github.com)
-
-[Wireframes](https://github.com/AndyB-WHG/sim-setup-guide/blob/master/Sim%20Setup%20World.bmpr)
+[Wireframes link - click to view](https://github.com/AndyB-WHG/sim-setup-guide/blob/master/wireframes-sim-setup-world.pdf)
 
 ## Features
 
