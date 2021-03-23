@@ -10,27 +10,27 @@
     border:0;
 }
 
-/* body {
-    font-family: 'Roboto', sans-serif;
-} */
-
 body {
     font-family: Lato;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Oswald;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #fafafa;
-
 }
 
-
-
 #logo {
-    float: left;
-    font-size: 200%;
+    position: absolute;
+    left: 1%;
+    top: 3.7%;
+    font-size: 100%;
+    border-left: 5%;
+}
+
+#logo h2 {
+   font-size: 150%; 
 }
 
 #menu { 
@@ -48,12 +48,16 @@ h1, h2 {
     margin-right: 30px;
 }
 
-#menu a {
+#logo, #menu a {
     text-decoration: none;
     color: #fafafa;
 }
 
-#logo:hover, #menu a:hover {
+#menu a:hover {
+    border-bottom: 1px solid #fafafa;
+}
+
+#logo h2:hover {
     border-bottom: 1px solid #fafafa;
 }
 
@@ -62,33 +66,24 @@ h1, h2 {
 }
 
 #hero-image {
-    height:800px;
+    height: 800px;
     width: 100%;
     background: url("../img/pexels-albin-berlin-919073.jpg") no-repeat center center;
     background-size: cover;
 }
 
-#cover-text, #cover-text h2 {
-    color: #ffffff;
+#hero-text h2 {
+    font-size: 350%;    
 }
 
-#hero-banner-text {
-    font-size: 130%;
+#hero-text {
     font-family: Oswald;
+    position: absolute;
+    top: 35%;
+    left: 38%;
+    width: 24%;
+    text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
-
-    width: 300px;
-    height: 200px;
-
-    padding-top: 40px;
-    padding-left: 10px;
-
-    background-color: rgba(241, 109, 107, .7);
-
-    bottom: 30px;
-    right: 150px;
-
-    position: absolute;
-
+    background-color: #0c0c0c9c
 }
