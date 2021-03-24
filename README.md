@@ -1,34 +1,58 @@
-# Race-Car Setup Guide for Sim Racers
+# Sim Setup World
+
+Project - User Centric Frontend Development - Code Institute
 
 Most modern racing games allow users to change almost every aspect of a car's setup.  Whether this be simple adjustments to fuel levels or tyre type, or more complex changes such as suspension stiffness and differential lock. The number of options available 
 can be both bewildering and overwhelming, with in-game explanations often unclear or unhelpful. 
 
-This project aims to act as a 'hub', to pull together a variety of excellent YouTube resources to give 'sim racers' the knowledge and confidence to make positive improvements to their 'sim' racing car setups.  
+This project aims to act as an educational 'hub', to pull together a variety of excellent YouTube resources to give sim racers the knowledge and confidence to make positive improvements to their sim racing car setups.  
 
-  
+## Showcase
 
- 
+A deployed link to the website can be found here.
+
+![Site Preview](/assets/img/site-preview.png)
+
 ## UX
  
 This website initially aims to fulfil three needs:
 
-* Act as a setup 'knowledge hub' to provide users with a comprehensive source of information and an easily understandable process to follow in order to improve lap times, car handling, consistency, race-ability and competitiveness.
-*  Enable users to quickly drill down to find the information necessary to resolve specific handling issues. 
+* Act as a setup 'knowledge hub' to provide users with a comprehensive source of setup information.
+* Provide an easily understandable process for users/racers to follow in order to improve lap times, car handling, consistency, race-ability and competitiveness.
 * Provide multiple 'lessons' for each component, from a variety of experts, to allow for differing learning styles and preferences and to give a variety of viewpoints to improve understanding.  
 
 The site therefore acts as an organising database to pull together knowledge and information from various sources to give the user access to a large volume of information in an easily digestible and logical format.
 
 ### User Stories
 
-* I want to learn how to go faster.
-* I want to learn how to stop my car from spinning in high speed corners.
-* I would like a process to methodically set up every aspect of my car for a given track in given conditions.
-* I want to understand what each car/setup component does.
-* I want to know how changing a component will alter the drving characteristics of my car.
-* I have a specific issue and want to know how to fix it (eg. understeer, oversteer, cold tyres, skittish behaviour, lack of top speed etc).
-* I have a specific racing game and would like a guide to the settings for that game.
+The end users of the project are sim racers looking to understand all, some or just a single adjustable component within a virtual racing car.  
 
-### Wireframes
+* As a user I want to learn how to improve my laptimes.
+* As a user I would like a process to methodically set up every aspect of my car for a given track in given conditions.
+* As a user I want to understand how to make my car more stable and manageable for longer races.
+
+    In the instances above the user will click on the 'Full Setup Guide' option from the Home Page. The user is presented with five mentors - each mentor having a series of videos devoted to the various components found on a racing car.  The user will start at video 1, and work their way through the series in a logical order to methodically build up their knowledge and setup their car.
+
+* As a user I want to understand what each car/setup component does.
+* As a user I want to know how changing a component will alter the drving characteristics of my car.
+
+    In these final two instances the user will choose the 'Component Guide' from the Home Page.  An array of car components appears from which the user selects the component they want to learn about. A list of videos appears on screen from the various Mentors for the user choose from.
+
+### Strategy
+
+Guide the user to the relevant video series in no more than two clicks.
+
+Home page, Full Guides page, Component Chooser page, plus pages for each of the components.
+
+### Scope
+
+Five mentors initially, each with a video series of their own.  These mentors/series to be listed together on a single page in a simple logical grid structure.
+13 components listed in a grid structure on a page of their own. The user selects the component they're interested in and is presented with the videos relevent only to that component.
+13 separate 'components' pages - one for each component.
+
+### 
+
+
 
 [Wireframes link - click to view](https://github.com/AndyB-WHG/sim-setup-guide/blob/master/wireframes-sim-setup-world.pdf)
 
