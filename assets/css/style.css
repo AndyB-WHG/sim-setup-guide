@@ -85,5 +85,21 @@ h1, h2, h3 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
-    background-color: #0c0c0c9c
+    background-color: #000000
 }
+
+#guides-area {
+    height:500px;
+}
+
+#full-setup-guides {
+
+}
+
+.guide-box {
+    width: 19%;
+    height: 100%;
+    background-color: red;
+    display: inline-block;
+}
+
