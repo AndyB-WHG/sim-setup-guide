@@ -46,13 +46,31 @@ Home page, Full Guides page, Component Chooser page, plus pages for each of the 
 
 ### Scope
 
-Five mentors initially, each with a video series of their own.  These mentors/series to be listed together on a single page in a simple logical grid structure.
-13 components listed in a grid structure on a page of their own. The user selects the component they're interested in and is presented with the videos relevent only to that component.
-13 separate 'components' pages - one for each component.
+Five setup guides initially, each with a video series of it's own.  
+13 car components - within which the relevent videos for that component are listed together.
 
-### 
+### Structure
 
+1. 1 x Home Page:  has two main choices/links:
 
+* Full Setup Guides
+* Component Guides
+
+2. 1 x Full Setup Guide Page:  has 5 setup guides to choose from, each created by a different expert.  
+
+3. 5 x Setup Guide Pages
+
+3. Component Selector Page:  has 13 component links to choose from.  Each link leads to a separate page for each component.
+
+4. Components Pages x 13:  each component has a page of it's own, within which the video links for that component are listed.
+
+### Skeleton
+
+The choices on each page will be listed vertically for mobile devices. The user will scroll down to select the relevant option.
+
+For larger devices, the options will be displayed in a grid pattern for quicker selection 
+
+#### Wireframes
 
 [Wireframes link - click to view](https://github.com/AndyB-WHG/sim-setup-guide/blob/master/wireframes-sim-setup-world.pdf)
 
