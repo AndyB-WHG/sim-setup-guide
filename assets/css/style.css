@@ -30,7 +30,7 @@ h1, h2, h3 {
 }
 
 #logo h2 {
-   font-size: 150%; 
+   font-size: 50%; 
 }
 
 #menu { 
@@ -40,7 +40,7 @@ h1, h2, h3 {
 }
 
 #logo, #menu {
-    line-height: 75px;
+    /* line-height: 75px; */
 }
 
 #menu li {
@@ -73,15 +73,19 @@ h1, h2, h3 {
 }
 
 #hero-text h2 {
-    font-size: 350%;    
+    font-size: 350%;  
+    display: inline-block;  
 }
 
 #hero-text {
     font-family: Oswald;
     position: absolute;
-    top: 35%;
+    /* position: relative; */
+    left: 15px;
+    top: 20px;
+    /* top: 35%;
     left: 38%;
-    width: 24%;
+    width: 24%; */
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
